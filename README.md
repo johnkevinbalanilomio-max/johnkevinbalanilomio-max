@@ -1,16 +1,39 @@
-## Hi there 👋
+👋 Hi, I'm John Kevin Balani Lomio!
 
-<!--
-**johnkevinbalanilomio-max/johnkevinbalanilomio-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cute ako. 😎✨
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm John Kevin Balani Lomio, a curious person who enjoys learning, creating, and exploring new things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 About Me
+
+😎 Name: John Kevin Balani Lomio
+
+💻 Interested in: Technology & Programming
+
+🚀 Always learning something new
+
+🎯 Goal: Keep improving and building cool things
+
+✨ Fun fact: Cute ako, sabi ko eh. 😂
+
+🛠️ Tech & Tools
+💻 Programming
+🌐 Web Development
+🧠 Problem Solving
+🔧 Git & GitHub
+📚 Continuous Learning
+
+📊 GitHub Stats
+
+🚀 My Motto
+
+"Code, learn, improve, repeat."
+
+💖 Random Fact
+if (cute) {
+    console.log("Ako 'to! 😎");
+}
+
+⭐ Thanks for visiting my profile!
+
+Don't forget to follow and check out my repositories! 🚀
